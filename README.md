@@ -7,6 +7,6 @@ Used.:
 - HTML,
 - CSS,
 - SASS,
-- JavaScript,
+- JavaScript.
 
 Link.: https://mickozak.github.io/Game-Memory/
